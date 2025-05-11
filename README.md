@@ -1,5 +1,5 @@
 ## Olá, sou o Igor Costa! 👋
-🎓 Estudante de Engenharia de Software, atualmente tenho 18 anos, e tenho uma paixão por tecnologia e desenvolvimento de software. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades.
+🎓 Estudante de Engenharia de Software, atualmente tenho 19 anos, e tenho uma paixão por tecnologia e desenvolvimento de software. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades.
 
 💻 No meu GitHub, você encontrará alguns dos meus projetos e contribuições em diversas áreas da programação. Estou constantemente aprendendo e aprimorando minhas habilidades para me tornar um desenvolvedor cada vez melhor.
 
